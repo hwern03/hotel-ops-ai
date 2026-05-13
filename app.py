@@ -102,7 +102,6 @@ def risk_label(prob):
     return "🟢 Low Risk", "risk-low"
 
 # ── Sidebar nav ───────────────────────────────────────────────────────────────
-st.sidebar.image("https://img.icons8.com/fluency/48/hotel-building.png", width=40)
 st.sidebar.title("HotelOps AI")
 st.sidebar.caption("Powered by Logistic Regression · 80% accuracy")
 st.sidebar.markdown("---")
