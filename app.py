@@ -442,7 +442,7 @@ elif page == "👥 Guest Segment Analysis":
                                 margin=dict(t=40))
             st.plotly_chart(fig5, use_container_width=True)
 
-        st.info("💡 **Operational takeaway:** Non-refundable deposits reduce cancellations by up to 95%. Loyalty programmes that convert new guests into repeat guests significantly stabilise operations.")
+        st.info("💡 **Operational takeaway:** Loyalty programmes that convert new guests into repeat guests significantly stabilise operations.")
 
 
 # ═══════════════════════════════════════════════════════════════════════════════
